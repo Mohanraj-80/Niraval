@@ -1,0 +1,20 @@
+FrontEnd:
+	Fletter
+	desing : Fingma
+
+Backend:
+
+	Firebase
+	MongoDB
+
+Image processing :
+
+	OpenCV
+
+NLP:
+	Pytesseract
+	Re
+	
+
+
+	
